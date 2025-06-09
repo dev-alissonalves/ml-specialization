@@ -35,7 +35,7 @@ Para rodar os projetos localmente, você precisará ter **Python 3** instalado, 
 
 **1. Clone o repositório:**
 ```bash
-git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+git clone [https://github.com/dev-alissonalves/ml-specialization.git](https://github.com/dev-alissonalves/ml-specialization.git)
 cd NOME-DO-REPOSITORIO
 ```
 
